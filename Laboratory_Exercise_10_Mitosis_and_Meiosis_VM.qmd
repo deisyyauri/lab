@@ -130,12 +130,12 @@ During this activity you will work in *pairs.*
 
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
-| Interphase | 43534                 |                 |             |
-| Prophase   |                       |                 |             |
-| Metaphase  |                       |                 |             |
-| Anaphase   |                       |                 |             |
-| Telophase  |                       |                 |             |
-| Total      |                       |                 | 100%        |
+| Interphase | 180                   | 82              | 88          |
+| Prophase   | 12                    | 10              | 8           |
+| Metaphase  | 3                     | 4               | 2           |
+| Anaphase   | 1                     | 2               | 2           |
+| Telophase  | 1                     | 2               | 1           |
+| Total      | 197                   | 100             | 100         |
 
 ### **Calculating Mitotic Index**
 
@@ -149,7 +149,7 @@ Cells in mitosis = Prophase + Metaphase + Anaphase + Telophase
 
 1.  Which phase was most common?
 
-2.  Based on the percentage of cells observed in each stage, which phase of the cell cycle lasts the longest?
+2.  Based on the percentage of cells observed in each stage, which phase of the cell cycle lasts the longe
 
 3.  What does the most common phase suggest about cell cycle duration?
 
@@ -175,10 +175,10 @@ Cells in mitosis = Prophase + Metaphase + Anaphase + Telophase
 
 | **Characteristic**    | **Plant Cells** | **Animal Cells** |
 |:----------------------|:----------------|:-----------------|
-| Cell shape            |                 |                  |
-| Cell wall present?    |                 |                  |
+| Cell shape            | rectangular     | round            |
+| Cell wall present?    | yes             | no               |
 | Cytokinesis mechanism |                 |                  |
-| Centrioles visible?   |                 |                  |
+| Centrioles visible?   | no              | no               |
 
 ### **Analysis Questions**
 
